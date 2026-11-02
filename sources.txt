@@ -1,2 +1,6 @@
 # wallhaven-id | local name | credit (uploader/author)
 gwq1w3 | red-ascii-portrait | Gatin
+og7vpm | green-ascii-winged-warrior | VizAllAround
+qrp5wr | purple-glitch-abstract | guntherwaalderson2
+k8jvm7 | chrome-glass-hud | 43PR (source: https://x.com/aletiune/status/2099217550177677814)
+gw1rqe | aespa-karina-portrait | SKYWALKERcT77
