@@ -16,5 +16,6 @@ None yet. Only own or openly licensed images (CC0 etc.) go here; add a row per f
 | `persona3-schoolyard-cast` | skooshysploose (uploader); Persona 3 artwork, characters/franchise (c) Atlus | https://wallhaven.cc/w/42wgox |
 | `red-halftone-armored-knight` | VizAllAround (uploader); Lords of the Fallen artwork (per Wallhaven tags) | https://wallhaven.cc/w/yqkrv7 |
 | `sonic-rainy-stairs` | Kiw1 (uploader); Sonic Adventure render, character (c) SEGA | https://wallhaven.cc/w/pomzl9 |
+| `baldurs-gate-3-character-collage` | Alokin (uploader); Baldur's Gate 3 artwork, franchise (c) Larian Studios / Wizards of the Coast; original source linked by uploader: https://www.artstation.com/artwork/49ADW4 | https://wallhaven.cc/w/8gexlk |
 
 All rights stay with the original creators. If you are one and want something credited differently, open an issue.
