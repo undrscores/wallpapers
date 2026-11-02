@@ -1,0 +1,6 @@
+# Fetched from Wallhaven by fetch.sh; not redistributed
+wallhaven/
+.DS_Store
+Thumbs.db
+*.part
+*.tmp
