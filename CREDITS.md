@@ -14,5 +14,7 @@ None yet. Only own or openly licensed images (CC0 etc.) go here; add a row per f
 | `persona5-ann-panther-black` | solo0709 (uploader); Persona 5 artwork, characters/franchise (c) Atlus | https://wallhaven.cc/w/yxq6ek |
 | `persona5-takemi-desk` | destex (uploader); fan art of Tae Takemi, original source linked by uploader: https://x.com/maru_haze/status/1847234246945177973 | https://wallhaven.cc/w/2ymogg |
 | `persona3-schoolyard-cast` | skooshysploose (uploader); Persona 3 artwork, characters/franchise (c) Atlus | https://wallhaven.cc/w/42wgox |
+| `red-halftone-armored-knight` | VizAllAround (uploader); Lords of the Fallen artwork (per Wallhaven tags) | https://wallhaven.cc/w/yqkrv7 |
+| `sonic-rainy-stairs` | Kiw1 (uploader); Sonic Adventure render, character (c) SEGA | https://wallhaven.cc/w/pomzl9 |
 
 All rights stay with the original creators. If you are one and want something credited differently, open an issue.
