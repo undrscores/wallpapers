@@ -17,5 +17,7 @@ None yet. Only own or openly licensed images (CC0 etc.) go here; add a row per f
 | `red-halftone-armored-knight` | VizAllAround (uploader); Lords of the Fallen artwork (per Wallhaven tags) | https://wallhaven.cc/w/yqkrv7 |
 | `sonic-rainy-stairs` | Kiw1 (uploader); Sonic Adventure render, character (c) SEGA | https://wallhaven.cc/w/pomzl9 |
 | `baldurs-gate-3-character-collage` | Alokin (uploader); Baldur's Gate 3 artwork, franchise (c) Larian Studios / Wizards of the Coast; original source linked by uploader: https://www.artstation.com/artwork/49ADW4 | https://wallhaven.cc/w/8gexlk |
+| `gracile-utility-pole-sky` | jrmnt (uploader); artwork by Gracile, original source linked by uploader: https://www.pixiv.net/en/users/3434849 | https://wallhaven.cc/w/xewl8o |
+| `gracile-traffic-light-sky` | jrmnt (uploader); artwork by Gracile, original source linked by uploader: https://www.pixiv.net/en/users/3434849 | https://wallhaven.cc/w/e8ry7l |
 
 All rights stay with the original creators. If you are one and want something credited differently, open an issue.
